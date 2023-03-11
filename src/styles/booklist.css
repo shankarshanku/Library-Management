@@ -1,0 +1,47 @@
+.books{
+    display: flex;
+    border: 3px solid rgb(23, 19, 19);
+    margin: 20px 20px;
+    /* background:linear-gradient(rgb(235, 196, 233),rgb(250, 250, 250)) */
+    background-color: beige;
+}
+.images img{
+    margin: 20px 20px;
+    height: 250px;
+    width: 200px;
+}
+.sentence a{
+    text-decoration: none;
+   
+}
+.one {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100px;
+    margin-right: 20px; 
+}
+.one a{
+    background-color: black;
+    color: white;
+}
+.two {
+    background-color: aliceblue;
+    border: 2px solid red;
+    height: 40px;
+    width: 100px;
+}
+.two a{
+    background-color: aliceblue;
+   color: black;
+}
+.header{
+    padding-left: 20px;  
+    margin-top: 0px;
+    padding-top: 20px;
+    color: white;
+}
+.container{
+    background-color: rgb(141, 137, 137);
+    /* background-image: url(""); */
+}

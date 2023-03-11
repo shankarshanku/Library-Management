@@ -1,0 +1,13 @@
+.wholecontent{
+    display: flex;
+    border: 3px solid black;
+    padding: 20px 20px;
+   background-image: url("https://freevector-images.s3.amazonaws.com/uploads/vector/preview/37202/37202.png");
+   
+}
+
+.picture img{
+height: 500px;
+width: 350px;
+padding: 30px 30px;
+}

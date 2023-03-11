@@ -1,0 +1,48 @@
+.displayalpha h1{
+    border: 2px solid black;
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 18px 10px;
+  background-color:darkorange;
+  text-align: center;
+ /* padding-top: 3px; */
+  justify-content: center;
+  line-height:45px;
+}
+.userss{
+    display: flex;
+    border: 3px solid black;
+    height: 230px;
+    width: 450px;
+    margin: 20px 20px;
+    background-color:beige;
+    padding: 15px 20px; 
+}
+.sentence a{
+    text-decoration: none;
+   
+}
+
+.three {
+    background-color: rgb(195, 193, 193);
+    border: 2px solid black;
+    height: 40px;
+    width: 100px;
+}
+.three a{
+    background-color:rgb(195, 193, 193);
+   color: white;
+  
+   font-weight: bolder;
+}
+.header1{
+    padding-left: 25px;  
+    margin-top: 0px;
+    padding-top: 20px;
+    color: white;
+}
+.container1{
+    background-image: url("https://blog.dheerajverma.in/wp-content/uploads/2018/10/css-gradient-e1595456078187.jpg");
+    height:100vh;
+}

@@ -1,0 +1,252 @@
+.fixedsentence h1{
+    font-size: 70px;
+    /* line-height: 100px; */
+    border-bottom: 2px #019875 solid ;
+    width:850px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.fixedsentence{
+
+    background: rgba(255,255,255,.89); 
+    box-shadow: 2px 2px 24px 0 rgb(0 0 0 / 10%); 
+    padding: 35px 40px 55px 50px;
+    position: absolute;
+    bottom: 0; 
+    margin-bottom: 150px;
+    max-width: 85%;  
+}
+.fixedsentence p{
+    word-spacing: 8px;
+    font-size: 18px;
+    line-height: 27px;
+   font-weight: 400;
+   
+
+}
+.backphoto img{
+    background-size: cover;
+    width: 100%;
+    /* background-position: center ; */
+}
+.firstsection{
+    display: block;
+    position: relative;
+    z-index: 0;
+}
+.aunty{
+    /* position:relative; */
+    z-index: 0;
+}
+
+.auntyheading h2{
+    border-bottom: 2px #019875 solid ;
+    width: 600px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px 10px;
+    font-size: 55px;
+    font-weight: 300;
+}
+.auntyphoto img{
+    justify-content:center;
+    background-size: cover;
+   padding: 40px 0px;
+    height: 400px;
+padding-left: 140px;
+width: 80%;
+}
+.boxing{
+    background: #FFF;
+    box-shadow: 2px 2px 24px 0 rgb(0 0 0 / 10%);
+   display: inline-block;
+    margin: 0 auto;
+    margin-top: -130px;
+    padding: 24px 33px 50px ;
+    padding-left: 30px;
+    margin-left: 280px;
+    text-align: left;
+    width: 800px;
+
+}
+.auntytext p{
+    padding: 20px 20px 20px ;
+    word-spacing: 8px;
+    font-size: 18px;
+    line-height: 27px;
+   font-weight: 400;
+    
+}
+.visit p{
+    padding-left:10px
+}
+.firstsent{
+    background-image: url("https://www.greenwichlibrary.org/wp-content/uploads/2016/04/Pattern-BG-Main.svg");
+    margin:40px 0px;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    padding: 60px 0px;
+    /* border:solid 2px #019875 ;
+    background-color: #019875; */
+
+}
+.firstsent h1{
+font-size: 55px;
+background-color: #019875;
+padding: 20px 0px 20px 0px;
+color: white;
+font-weight: 400;
+font-family:Arial, Helvetica, sans-serif;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+.firstsent h4{
+    font-size: 20px;
+    word-spacing: 6px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    line-height: 27px;
+    text-align: center;
+    color: white;
+    background-color: #019875;
+    margin: 0px 0px;
+}
+.firstsent button{
+    padding: 11px 20px;
+    font-size: 17px;
+   
+}
+.firstbox h2{
+    border-bottom: 2px #019875 solid ;
+    width: 440px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px 10px;
+    font-size: 45px;
+    font-weight: 300;
+}
+.firstbox p{
+    padding: 20px 20px 20px 20px;
+    word-spacing: 8px;
+    font-size: 18px;
+    line-height: 27px;
+   font-weight: 400;
+}
+.firstbox a{
+    padding-left: 20px;
+    color: #019875 ;
+}
+.firstbox{
+    background: #FFF;
+    box-shadow: 2px 2px 24px 0 rgb(0 0 0 / 10%);
+    margin-top: 30px;
+    padding: 24px 33px 50px;
+    margin-left: 20px;
+    text-align: left;
+    width: 500px;
+}
+.secondbox h2{
+    border-bottom: 2px #019875 solid ;
+    width: 370px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px 10px;
+    font-size: 45px;
+    font-weight: 300;
+}
+.secondbox p{
+    padding: 20px 20px 20px 20px ;
+    word-spacing: 8px;
+    font-size: 18px;
+    line-height: 27px;
+   font-weight: 400;
+}
+.secondbox{
+    background: #FFF;
+    box-shadow: 2px 2px 24px 0 rgb(0 0 0 / 10%);
+    margin-top: 30px;
+    padding: 24px 33px 50px ;
+    margin-left: 20px;
+    text-align: left;
+    width: 500px;
+}
+.secondbox a{
+    padding-left: 20px;
+    color: #019875 ;
+}
+.thirdbox h2{
+    border-bottom: 2px #019875 solid ;
+    width: 170px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px 10px;
+    font-size: 45px;
+    font-weight: 300;
+}
+.thirdbox p{
+    padding: 20px 20px 20px 20px;
+    word-spacing: 8px;
+    font-size: 18px;
+    line-height: 27px;
+   font-weight: 400;
+}
+.thirdbox{
+    background: #FFF;
+    box-shadow: 2px 2px 24px 0 rgb(0 0 0 / 10%);
+    margin-top: 30px;
+    padding: 24px 33px 50px ;
+    margin-left: 20px;
+    text-align: left;
+    width: 500px;
+}
+.thirdbox a{
+    padding-left: 20px;
+    color: #019875 ;
+}
+.fourthbox h2{
+    border-bottom: 2px #019875 solid ;
+    width: 430px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px 10px;
+    font-size: 45px;
+    font-weight: 300;
+}
+.fourthbox p{
+    padding: 20px 20px 20px 20px;
+    word-spacing: 8px;
+    font-size: 18px;
+    line-height: 27px;
+   font-weight: 400;
+}
+.fourthbox{
+    background: #FFF;
+    box-shadow: 2px 2px 24px 0 rgb(0 0 0 / 10%);
+    margin-top: 30px;
+    padding: 24px 33px 50px ;
+    margin-left: 20px;
+    text-align: left;
+    width: 500px;
+}
+.fourthbox a{
+    padding-left: 20px;
+    color: #019875 ;
+}
+.fourbox{
+    display: flex;
+    justify-content:center;
+    
+}
+.firstcolumn{
+    padding-right: 20px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+.secondsection{
+    position: relative;
+    
+}
