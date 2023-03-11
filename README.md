@@ -1,6 +1,6 @@
-## Book My Show
+## Library Management System
 
-My First applicaiton on Book My Show Clone
+n interactive web portal for automating various manual processes done by librarian.
 
 
 ## Getting Started
